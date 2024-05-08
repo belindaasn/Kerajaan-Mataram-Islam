@@ -46,5 +46,821 @@
     "c": "Zidan, Sam, Obi, Reo, Fachri",
     "d": "Dhisya",
     "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
+},
+{
+    "question" : "Siapakah kesayangan Belinda?",
+    "a": "Ken",
+    "b": "Abay",
+    "c": "Nailah",
+    "d": "Dokja",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang membuat Belinda bahagia?",
+    "a": "Dokja",
+    "b": "Sekolah",
+    "c": "Genshin Impact",
+    "d": "Among Us",
+    "answer": "a"
+},
+{
+    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
+    "a": "Dikasih peringatan melalui penggaris",
+    "b": "Pinggang mereka ga aman",
+    "c": "Ngomong kasar",
+    "d": "Semuanya benar",
+    "answer": "d"
+},
+{
+    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
+    "a": "Dokja",
+    "b": "Kim Dokja",
+    "c": "KDJ",
+    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
+    "answer": "d"
+},
+{
+    "question" : "Apa yang Belinda suka?",
+    "a": "Tidur",
+    "b": "Makan",
+    "c": "Belajar",
+    "d": "Salah semua",
+    "answer": "a"
+},
+{
+    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
+    "a": "Ken",
+    "b": "Naurah",
+    "c": "Zidan, Sam, Obi, Reo, Fachri",
+    "d": "Dhisya",
+    "answer": "c"
 }
 ]
