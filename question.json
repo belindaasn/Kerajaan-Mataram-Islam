@@ -1,19 +1,19 @@
 [
 {
-    "question" : "Siapakah kesayangan Belinda?",
-    "a": "Ken",
-    "b": "Abay",
-    "c": "Nailah",
-    "d": "Dokja",
-    "answer": "d"
+    "question" : "Di manakah letak kerajaan Mataram Islam?",
+    "a": "Batavia",
+    "b": "Yogyakarta",
+    "c": "Surabaya",
+    "d": "Makassar",
+    "answer": "b"
 },
 {
-    "question" : "Apa yang membuat Belinda bahagia?",
-    "a": "Dokja",
-    "b": "Sekolah",
-    "c": "Genshin Impact",
-    "d": "Among Us",
-    "answer": "a"
+    "question" : "Apa saja sumber berita kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Prasasti Kebon Kopi",
+    "b": "Kitab Sutasoma",
+    "c": "Serat Centhini",
+    "d": "Kitab Negarakertagama",
+    "answer": "c"
 },
 {
     "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
