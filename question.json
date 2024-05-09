@@ -4,7 +4,7 @@
     "a": "Batavia",
     "b": "Yogyakarta",
     "c": "Surabaya",
-    "d": "Makassar",
+    "d": "Skip",
     "answer": "b"
 },
 {
@@ -12,39 +12,591 @@
     "a": "Prasasti Kebon Kopi",
     "b": "Kitab Sutasoma",
     "c": "Serat Centhini",
-    "d": "Kitab Negarakertagama",
+    "d": "Skip",
     "answer": "c"
 },
 {
-    "question" : "Apa yang Belinda akan lakukan jika ada yang mengatakan Dokja mati?",
-    "a": "Dikasih peringatan melalui penggaris",
-    "b": "Pinggang mereka ga aman",
-    "c": "Ngomong kasar",
-    "d": "Semuanya benar",
-    "answer": "d"
+    "question" : "Apa salah satu faktor kemajuan kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Kekuatan maritim",
+    "b": "Memiliki lumbung pangan yang besar",
+    "c": "Pusat agama Buddha",
+    "d": "Skip",
+    "answer": "b"
 },
 {
-    "question" : "Siapakah yang akan Belinda kejar pertama kali dalam Among Us?",
-    "a": "Dokja",
-    "b": "Kim Dokja",
-    "c": "KDJ",
-    "d": "Zidan, Sam, Ken, Fachri, Ayu, Reo, Naurah, Obi, Bintang, Ali, Bryan, Nailah, Muti",
-    "answer": "d"
-},
-{
-    "question" : "Apa yang Belinda suka?",
-    "a": "Tidur",
-    "b": "Makan",
-    "c": "Belajar",
-    "d": "Salah semua",
+    "question" : "Apa salah satu warisan kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Adanya Tahun Saka",
+    "b": "Upacara Sekaten",
+    "c": "Tari Serimpih",
+    "d": "Skip",
     "answer": "a"
 },
 {
-    "question" : "Siapa yang sering membuat Belinda kesal perihal Dokja?",
-    "a": "Ken",
-    "b": "Naurah",
-    "c": "Zidan, Sam, Obi, Reo, Fachri",
-    "d": "Dhisya",
+    "question" : "Apa saja faktor kemunduran kerajaan Mataram Islam?",
+    "a": "Perang saudara setelah kematian Hayam Wuruk, berdirinya kesultanan Malaka",
+    "b": "Pendangkalan sungai musi, pemberontakan raja Jayakatwang, pelembagaan militer dan pertahanan",
+    "c": "Perubahan takhta, pemberontakan Trunojoyo, Perjanjian Giyanti, Perjanjian Salatiga",
+    "d": "Skip",
     "answer": "c"
+},
+{
+    "question" : "Pada masa kepempimpinan siapa kah kerajn Mataram Islam mencapai puncak kejayaannya?",
+    "a": "Raden Mas Arok",
+    "b": "Raden Mas Rangsang",
+    "c": "Raden Mas Syahid",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Amangkurat I bersekutu dengan VOC untuk mengamankan posisinya dari...", 
+    "a": "Pangeran Alit",
+    "b": "Pangeran Diponegoro",
+    "c": "Raden Patah",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Siapa kah raja pertama yang memimpin kerajaan Mataram Islam?", 
+    "a": "Panembahan Seda Ing Krapyak",
+    "b": "Panembahan Senopati",
+    "c": "Raden Mas Sayidin",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada abad ke berapakah kerajaaan Mataram Islam berdiri?", 
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Apa penyebab pemberontakan Trunojoyo?", 
+    "a": "Trunojoyo melakukan perlawanan terhadap campur tangan VOC dalam kerajaan",
+    "b": "Trunojoyo melakukan perlawanan Portugis dalam mencampuri urusan internal kerajaan",
+    "c": "Trunojoyo melakukan perlawanan terhadap Inggris yang menguasai kerajaan",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Dengan siapa Trunojoyo melakukan pemberontakan?", 
+    "a": "Pangeran Ratu",
+    "b": "Raden Kajoran",
+    "c": "Raden Wijaya",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada tanggal berapa Perjanjian Giyanti ditandatangani?", 
+    "a": "18 Mei 1766",
+    "b": "3 Mei 1766",
+    "c": "13 Februari 1755",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Dari tahun berapa Panembahan Senopati memimpin kerajaan Mataram Islam?", 
+    "a": "1558-1584",
+    "b": "1584-1601",
+    "c": "1646-1677",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Apa isi dari perjanjian Giyanti?", 
+    "a": "Membagi kekuasaan Mataram kepada Pakubuwana III dan Pangeran Mangkubumi",
+    "b": "Memberikan hak kepada Pangeran Sambernyawa untuk memiliki bagian dari wilayah Mataram",
+    "c": "Semua jawaban benar",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Apa isi dari perjanjian Salatiga?", 
+    "a": "Membagi kekuasaan Mataram kepada Pakubuwana III dan Pangeran Mangkubumi",
+    "b": "Memberikan hak kepada Pangeran Sambernyawa untuk memiliki bagian dari wilayah Mataram",
+    "c": "Semua jawaban benar",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada tanggal berapa perjanjian Salatiga ditandatangani?", 
+    "a": "17 Maret 1757",
+    "b": "9 Maret 1757",
+    "c": "20 Maret 1757",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Masjid yang termasuk dalam warisan kerajaan Mataram Islam?", 
+    "a": "Masjid Agung Sunda Kelapa",
+    "b": "Masjid Agung At-Tin",
+    "c": "Masjid Agung Negara",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Pada masa kepemimpinan siapa kah kerajaan Mataram Islam memiliki armada militer yang kuat?", 
+    "a": "Sultan Hamangkubuwono",
+    "b": "Sultang Agung",
+    "c": "Sultan Hasanuddin",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Perjanjian Giyanti ditandatangani pada tanggal 13 Februari 1755 di...", 
+    "a": "Dukuh Kerten, Desa Jantiharjo, Karanganyar, Jawa Tengah",
+    "b": "Jalan Sisingamangaraja, Surabaya",
+    "c": "Mancar, Peterongan, Kabupaten Jombang, Jawa Timur",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Pada perjanjian Giyanti, Pakubuwana III menjadi raja Mataram dengan wilayah kekuasaan di...", 
+    "a": "Sebelah barat Sungai Bengawan Solo",
+    "b": "Sebelah timur Sungai Bengawan Solo",
+    "c": "Sebelah timur Sungai Opak",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Pada perjanjian Salatiga, Pangeran Sambernyawa menjadi raja Mataram dengan wilayah kekuasaan di...", 
+    "a": "Sebelah barat Sungai Bengawan Solo",
+    "b": "Sebelah timur Sungai Bengawan Solo",
+    "c": "Sebelah timur Sungai Opak",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Salah satu sumber berita kerajaan Mataram Islam adalah Serat Centhini yang berisi tentang...", 
+    "a": "Arsip yang menyimpan hubungan antara Mataram Islam dan VOC",
+    "b": "mengisahkan tentang silsilah raja-raja di Mataram",
+    "c": "kehidupan sosial budaya masyakarat pada masa Mataram Islam",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Setelah Raja Sutawijaya wafat, siapa raja yang menggantikannya?", 
+    "a": "Raden Mas Garendi",
+    "b": "Raden Mas Suryaputa",
+    "c": "Raden Mas Jolang",
+    "d": "Jwb",
+    "answer": "c"
+},
+{
+     "question" : "Apa nama karya sastra Sultan Agung yang paling terkenal??", 
+    "a": "Kitab Sastra Jendra",
+    "b": "Kitab Sastra Gending",
+    "c": "Kitab Sastra Kusuma",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Saat tahun 1591, daerah apa saja yang berhasil ditaklukkan Mataram Islam?", 
+    "a": "Kediri dan Jipang",
+    "b": "Surakarta dan Jipang",
+    "c": "Batavia dan Kediri",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+    "question" : "Di manakah letak kerajaan Mataram Islam?",
+    "a": "Batavia",
+    "b": "Yogyakarta",
+    "c": "Surabaya",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Apa saja sumber berita kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Prasasti Kebon Kopi",
+    "b": "Kitab Sutasoma",
+    "c": "Serat Centhini",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+    "question" : "Apa salah satu faktor kemajuan kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Kekuatan maritim",
+    "b": "Memiliki lumbung pangan yang besar",
+    "c": "Pusat agama Buddha",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Apa salah satu warisan kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Adanya Tahun Saka",
+    "b": "Upacara Sekaten",
+    "c": "Tari Serimpih",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+    "question" : "Apa saja faktor kemunduran kerajaan Mataram Islam?",
+    "a": "Perang saudara setelah kematian Hayam Wuruk, berdirinya kesultanan Malaka",
+    "b": "Pendangkalan sungai musi, pemberontakan raja Jayakatwang, pelembagaan militer dan pertahanan",
+    "c": "Perubahan takhta, pemberontakan Trunojoyo, Perjanjian Giyanti, Perjanjian Salatiga",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+    "question" : "Pada masa kepempimpinan siapa kah kerajn Mataram Islam mencapai puncak kejayaannya?",
+    "a": "Raden Mas Arok",
+    "b": "Raden Mas Rangsang",
+    "c": "Raden Mas Syahid",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Amangkurat I bersekutu dengan VOC untuk mengamankan posisinya dari...", 
+    "a": "Pangeran Alit",
+    "b": "Pangeran Diponegoro",
+    "c": "Raden Patah",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Siapa kah raja pertama yang memimpin kerajaan Mataram Islam?", 
+    "a": "Panembahan Seda Ing Krapyak",
+    "b": "Panembahan Senopati",
+    "c": "Raden Mas Sayidin",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada abad ke berapakah kerajaaan Mataram Islam berdiri?", 
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Apa penyebab pemberontakan Trunojoyo?", 
+    "a": "Trunojoyo melakukan perlawanan terhadap campur tangan VOC dalam kerajaan",
+    "b": "Trunojoyo melakukan perlawanan Portugis dalam mencampuri urusan internal kerajaan",
+    "c": "Trunojoyo melakukan perlawanan terhadap Inggris yang menguasai kerajaan",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Dengan siapa Trunojoyo melakukan pemberontakan?", 
+    "a": "Pangeran Ratu",
+    "b": "Raden Kajoran",
+    "c": "Raden Wijaya",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada tanggal berapa Perjanjian Giyanti ditandatangani?", 
+    "a": "18 Mei 1766",
+    "b": "3 Mei 1766",
+    "c": "13 Februari 1755",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Dari tahun berapa Panembahan Senopati memimpin kerajaan Mataram Islam?", 
+    "a": "1558-1584",
+    "b": "1584-1601",
+    "c": "1646-1677",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Apa isi dari perjanjian Giyanti?", 
+    "a": "Membagi kekuasaan Mataram kepada Pakubuwana III dan Pangeran Mangkubumi",
+    "b": "Memberikan hak kepada Pangeran Sambernyawa untuk memiliki bagian dari wilayah Mataram",
+    "c": "Semua jawaban benar",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Apa isi dari perjanjian Salatiga?", 
+    "a": "Membagi kekuasaan Mataram kepada Pakubuwana III dan Pangeran Mangkubumi",
+    "b": "Memberikan hak kepada Pangeran Sambernyawa untuk memiliki bagian dari wilayah Mataram",
+    "c": "Semua jawaban benar",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada tanggal berapa perjanjian Salatiga ditandatangani?", 
+    "a": "17 Maret 1757",
+    "b": "9 Maret 1757",
+    "c": "20 Maret 1757",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Masjid yang termasuk dalam warisan kerajaan Mataram Islam?", 
+    "a": "Masjid Agung Sunda Kelapa",
+    "b": "Masjid Agung At-Tin",
+    "c": "Masjid Agung Negara",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Pada masa kepemimpinan siapa kah kerajaan Mataram Islam memiliki armada militer yang kuat?", 
+    "a": "Sultan Hamangkubuwono",
+    "b": "Sultang Agung",
+    "c": "Sultan Hasanuddin",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Perjanjian Giyanti ditandatangani pada tanggal 13 Februari 1755 di...", 
+    "a": "Dukuh Kerten, Desa Jantiharjo, Karanganyar, Jawa Tengah",
+    "b": "Jalan Sisingamangaraja, Surabaya",
+    "c": "Mancar, Peterongan, Kabupaten Jombang, Jawa Timur",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Pada perjanjian Giyanti, Pakubuwana III menjadi raja Mataram dengan wilayah kekuasaan di...", 
+    "a": "Sebelah barat Sungai Bengawan Solo",
+    "b": "Sebelah timur Sungai Bengawan Solo",
+    "c": "Sebelah timur Sungai Opak",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Pada perjanjian Salatiga, Pangeran Sambernyawa menjadi raja Mataram dengan wilayah kekuasaan di...", 
+    "a": "Sebelah barat Sungai Bengawan Solo",
+    "b": "Sebelah timur Sungai Bengawan Solo",
+    "c": "Sebelah timur Sungai Opak",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Salah satu sumber berita kerajaan Mataram Islam adalah Serat Centhini yang berisi tentang...", 
+    "a": "Arsip yang menyimpan hubungan antara Mataram Islam dan VOC",
+    "b": "mengisahkan tentang silsilah raja-raja di Mataram",
+    "c": "kehidupan sosial budaya masyakarat pada masa Mataram Islam",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Setelah Raja Sutawijaya wafat, siapa raja yang menggantikannya?", 
+    "a": "Raden Mas Garendi",
+    "b": "Raden Mas Suryaputa",
+    "c": "Raden Mas Jolang",
+    "d": "Jwb",
+    "answer": "c"
+},
+{
+     "question" : "Apa nama karya sastra Sultan Agung yang paling terkenal??", 
+    "a": "Kitab Sastra Jendra",
+    "b": "Kitab Sastra Gending",
+    "c": "Kitab Sastra Kusuma",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Saat tahun 1591, daerah apa saja yang berhasil ditaklukkan Mataram Islam?", 
+    "a": "Kediri dan Jipang",
+    "b": "Surakarta dan Jipang",
+    "c": "Batavia dan Kediri",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+    "question" : "Di manakah letak kerajaan Mataram Islam?",
+    "a": "Batavia",
+    "b": "Yogyakarta",
+    "c": "Surabaya",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Apa saja sumber berita kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Prasasti Kebon Kopi",
+    "b": "Kitab Sutasoma",
+    "c": "Serat Centhini",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+    "question" : "Apa salah satu faktor kemajuan kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Kekuatan maritim",
+    "b": "Memiliki lumbung pangan yang besar",
+    "c": "Pusat agama Buddha",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Apa salah satu warisan kerajaan Mataram Islam yang sudah disebutkan di video?",
+    "a": "Adanya Tahun Saka",
+    "b": "Upacara Sekaten",
+    "c": "Tari Serimpih",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+    "question" : "Apa saja faktor kemunduran kerajaan Mataram Islam?",
+    "a": "Perang saudara setelah kematian Hayam Wuruk, berdirinya kesultanan Malaka",
+    "b": "Pendangkalan sungai musi, pemberontakan raja Jayakatwang, pelembagaan militer dan pertahanan",
+    "c": "Perubahan takhta, pemberontakan Trunojoyo, Perjanjian Giyanti, Perjanjian Salatiga",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+    "question" : "Pada masa kepempimpinan siapa kah kerajn Mataram Islam mencapai puncak kejayaannya?",
+    "a": "Raden Mas Arok",
+    "b": "Raden Mas Rangsang",
+    "c": "Raden Mas Syahid",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Amangkurat I bersekutu dengan VOC untuk mengamankan posisinya dari...", 
+    "a": "Pangeran Alit",
+    "b": "Pangeran Diponegoro",
+    "c": "Raden Patah",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Siapa kah raja pertama yang memimpin kerajaan Mataram Islam?", 
+    "a": "Panembahan Seda Ing Krapyak",
+    "b": "Panembahan Senopati",
+    "c": "Raden Mas Sayidin",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada abad ke berapakah kerajaaan Mataram Islam berdiri?", 
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Apa penyebab pemberontakan Trunojoyo?", 
+    "a": "Trunojoyo melakukan perlawanan terhadap campur tangan VOC dalam kerajaan",
+    "b": "Trunojoyo melakukan perlawanan Portugis dalam mencampuri urusan internal kerajaan",
+    "c": "Trunojoyo melakukan perlawanan terhadap Inggris yang menguasai kerajaan",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Dengan siapa Trunojoyo melakukan pemberontakan?", 
+    "a": "Pangeran Ratu",
+    "b": "Raden Kajoran",
+    "c": "Raden Wijaya",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada tanggal berapa Perjanjian Giyanti ditandatangani?", 
+    "a": "18 Mei 1766",
+    "b": "3 Mei 1766",
+    "c": "13 Februari 1755",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Dari tahun berapa Panembahan Senopati memimpin kerajaan Mataram Islam?", 
+    "a": "1558-1584",
+    "b": "1584-1601",
+    "c": "1646-1677",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Apa isi dari perjanjian Giyanti?", 
+    "a": "Membagi kekuasaan Mataram kepada Pakubuwana III dan Pangeran Mangkubumi",
+    "b": "Memberikan hak kepada Pangeran Sambernyawa untuk memiliki bagian dari wilayah Mataram",
+    "c": "Semua jawaban benar",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Apa isi dari perjanjian Salatiga?", 
+    "a": "Membagi kekuasaan Mataram kepada Pakubuwana III dan Pangeran Mangkubumi",
+    "b": "Memberikan hak kepada Pangeran Sambernyawa untuk memiliki bagian dari wilayah Mataram",
+    "c": "Semua jawaban benar",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Pada tanggal berapa perjanjian Salatiga ditandatangani?", 
+    "a": "17 Maret 1757",
+    "b": "9 Maret 1757",
+    "c": "20 Maret 1757",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Masjid yang termasuk dalam warisan kerajaan Mataram Islam?", 
+    "a": "Masjid Agung Sunda Kelapa",
+    "b": "Masjid Agung At-Tin",
+    "c": "Masjid Agung Negara",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Pada masa kepemimpinan siapa kah kerajaan Mataram Islam memiliki armada militer yang kuat?", 
+    "a": "Sultan Hamangkubuwono",
+    "b": "Sultang Agung",
+    "c": "Sultan Hasanuddin",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Perjanjian Giyanti ditandatangani pada tanggal 13 Februari 1755 di...", 
+    "a": "Dukuh Kerten, Desa Jantiharjo, Karanganyar, Jawa Tengah",
+    "b": "Jalan Sisingamangaraja, Surabaya",
+    "c": "Mancar, Peterongan, Kabupaten Jombang, Jawa Timur",
+    "d": "Skip",
+    "answer": "a"
+},
+{
+     "question" : "Pada perjanjian Giyanti, Pakubuwana III menjadi raja Mataram dengan wilayah kekuasaan di...", 
+    "a": "Sebelah barat Sungai Bengawan Solo",
+    "b": "Sebelah timur Sungai Bengawan Solo",
+    "c": "Sebelah timur Sungai Opak",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+    "question" : "Pada perjanjian Salatiga, Pangeran Sambernyawa menjadi raja Mataram dengan wilayah kekuasaan di...", 
+    "a": "Sebelah barat Sungai Bengawan Solo",
+    "b": "Sebelah timur Sungai Bengawan Solo",
+    "c": "Sebelah timur Sungai Opak",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Salah satu sumber berita kerajaan Mataram Islam adalah Serat Centhini yang berisi tentang...", 
+    "a": "Arsip yang menyimpan hubungan antara Mataram Islam dan VOC",
+    "b": "mengisahkan tentang silsilah raja-raja di Mataram",
+    "c": "kehidupan sosial budaya masyakarat pada masa Mataram Islam",
+    "d": "Skip",
+    "answer": "c"
+},
+{
+     "question" : "Setelah Raja Sutawijaya wafat, siapa raja yang menggantikannya?", 
+    "a": "Raden Mas Garendi",
+    "b": "Raden Mas Suryaputa",
+    "c": "Raden Mas Jolang",
+    "d": "Jwb",
+    "answer": "c"
+},
+{
+     "question" : "Apa nama karya sastra Sultan Agung yang paling terkenal??", 
+    "a": "Kitab Sastra Jendra",
+    "b": "Kitab Sastra Gending",
+    "c": "Kitab Sastra Kusuma",
+    "d": "Skip",
+    "answer": "b"
+},
+{
+     "question" : "Saat tahun 1591, daerah apa saja yang berhasil ditaklukkan Mataram Islam?", 
+    "a": "Kediri dan Jipang",
+    "b": "Surakarta dan Jipang",
+    "c": "Batavia dan Kediri",
+    "d": "Skip",
+    "answer": "a"
 }
 ]
